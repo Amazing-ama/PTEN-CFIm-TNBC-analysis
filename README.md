@@ -52,6 +52,3 @@ Values are log2(TPM + 1).
 - Measure APA directly (for example DaPars or an APA database for TCGA).
 
 
-
-
-[Your name] · [email / LinkedIn]
